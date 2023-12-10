@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
+![MasterHead](https://images.unsplash.com/photo-1607252650355-f7fd0460ccdb?q=80&w=3570&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 <h1 align="center">Hi 👋, I'm Nagaraju Naroju</h1>
 <h3 align="center">A passionate Android developer from India</h3>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narojunagaraju" alt="narojunagaraju" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose, Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
-- 👯 I’m looking to collaborate on **Open source Android**
+- 👯 I’m looking to collaborate on **Open source Android Projects**
 
 - 💬 Ask me about **Android, Java and Kotlin**
 
